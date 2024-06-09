@@ -1,6 +1,6 @@
 ﻿namespace WinForms_Connect4
 {
-    
+partial class Form1    
     {
         /// <summary>
         /// Required designer variable.
