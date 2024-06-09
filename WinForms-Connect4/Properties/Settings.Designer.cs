@@ -17,7 +17,7 @@ namespace WinForms_Connect4.Properties {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
         
-        public static Settings Default {
+         {
             get {
                 return defaultInstance;
             }
