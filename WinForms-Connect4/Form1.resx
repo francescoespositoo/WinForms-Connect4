@@ -3,14 +3,14 @@
   <!-- 
     Microsoft ResX Schema 
     
-    Version 2.0
+    Versione 2.0
     
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
-    associated with the data types.
+    L'obiettivo principale di questo formato è consentire un formato XML semplice 
+    che è per lo più leggibile dall'uomo. La generazione e l'analisi del file 
+    vari tipi di dati vengono eseguiti tramite le classi TypeConverter 
+    associati ai tipi di dati.
     
-    Example:
+    Esempio:
     
     ... ado.net/XML headers & schema ...
     <resheader name="resmimetype">text/microsoft-resx</resheader>
@@ -27,22 +27,22 @@
         <comment>This is a comment</comment>
     </data>
                 
-    There are any number of "resheader" rows that contain simple 
-    name/value pairs.
+    Esiste un numero qualsiasi di righe "resheader" che contengono simple 
+    coppie nome/valore.
     
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
-    mimetype set.
+    Ogni riga di dati contiene un nome e un valore. La riga contiene anche a 
+    tipo o tipo MIME. Il tipo corrisponde a una classe .NET che supporta 
+    conversione testo/valore tramite l'architettura TypeConverter. 
+    Le classi che non lo supportano vengono serializzate e archiviate con il file 
+    insieme di tipi MIME.
     
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
-    extensible. For a given mimetype the value must be set accordingly:
+    Il mimetype viene utilizzato per oggetti serializzati e indica il file 
+    ResXResourceReader come depersistire l'oggetto. Al momento non lo è 
+    estensibile. Per un dato tipo MIME il valore deve essere impostato di conseguenza:
     
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
-    read any of the formats listed below.
+    Nota: application/x-microsoft.net.object.binary.base64 è il formato 
+    che ResXResourceWriter genererà, tuttavia il lettore può farlo 
+    leggere uno qualsiasi dei formati elencati di seguito.
     
     mimetype: application/x-microsoft.net.object.binary.base64
     value   : The object must be serialized with 
