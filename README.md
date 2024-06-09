@@ -1,8 +1,8 @@
 # Windows Forms Connect 4
 
-This is the replica of the classic "Connect Four" board game, made with Windows Forms using the C# language.
+Si tratta della replica del classico gioco da tavolo "Forza Quattro", realizzato con Windows Forms utilizzando il linguaggio C#.
 
-The project was developed by a little group of 16-17 y/o students during and extracurricular school course in Italy.
+Il progetto è stato sviluppato da un piccolo gruppo di studenti di 16-17 anni durante un percorso scolastico extracurriculare in Italia.
 
 Screenshot 1               |  Screenshot 2
 :-------------------------:|:-------------------------:
@@ -11,4 +11,4 @@ Screenshot 1               |  Screenshot 2
 
 ## License
 
-The source code of this project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+Il codice sorgente di questo progetto è concesso in licenza sotto la [licenza MIT](https://choosealicense.com/licenses/mit/).
