@@ -5,7 +5,7 @@
     
     Versione 2.0
     
-    L'obiettivo principale di questo formato è consentire un formato XML semplice 
+    L'obiettivo principale di questo form è consentire un form XML semplice 
     che è per lo più leggibile dall'uomo. La generazione e l'analisi del file 
     vari tipi di dati vengono eseguiti tramite le classi TypeConverter 
     associati ai tipi di dati.
