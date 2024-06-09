@@ -15,7 +15,6 @@ namespace WinForms_Connect4.Properties {
     /// <summary>
     ///   Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
     /// </summary>
-    // Questa classe è stata generata automaticamente dalla classe StronglyTypedResourceBuilder.
     // tramite uno strumento quale ResGen o Visual Studio.
     // Per aggiungere o rimuovere un membro, modificare il file con estensione ResX ed eseguire nuovamente ResGen
     // con l'opzione /str oppure ricompilare il progetto VS.
