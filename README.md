@@ -9,6 +9,6 @@ Screenshot 1               |  Screenshot 2
 ![](screenshot1.png)       |  ![](screenshot2.png)
 
 
-## License
+## Licenze
 
 Il codice sorgente di questo progetto è concesso in licenza sotto la [licenza MIT](https://choosealicense.com/licenses/mit/).
