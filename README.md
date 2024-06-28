@@ -1,4 +1,4 @@
-# Windows Forms Connect 4
+# Windows Forms Forza 4
 
 Si tratta della replica del classico gioco da tavolo "Forza Quattro", realizzato con Windows Forms utilizzando il linguaggio C#.
 
